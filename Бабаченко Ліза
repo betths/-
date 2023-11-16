@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="uk">
+
+<head>
+<meta charset="UTF-8">
+<title>Хлібна майстерня</title> 
+<style>
+body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #D2B48C;
+        }
+
+header {
+        background-color:#DEB887 ;
+        color: white;
+        text-align: center;
+        padding: 20px 0;
+        }
+
+nav {
+      background-color:#D2B48C ;
+      text-align: center;
+      padding: 10px 0;
+        }
+
+nav a {
+       color: white;
+       text-decoration: none;
+       margin: 0 15px;
+        }
+
+nav a:hover {
+          text-decoration: underline;
+        }
+
+section {
+        padding: 20px;
+        margin: 20px;
+        background-color: #fff;
+        border-radius: 5px;
+        }
+footer {
+         background-color: #DEB887;
+         color: white;
+         text-align: center;
+         padding: 10px 0;
+         position: fixed;
+         bottom: 0;
+         width: 100%;
+}
+</style>
+<style>
+ .round {
+    border-radius: 500px;
+</style>
+</head>
+
+<body>
+<header>
+<h1>Хлібна майстерня</h1>
+</header>
+<nav>
+<a href="#home">Головна</a>
+<a href="#about">Про нас</a>     
+<a href="#menu">Асортимент</a>
+<a href="#contact">Контакти</a> 
+
+</nav>
+
+<section id="home">
+<h1 style="font-size:32px;"><center>Пекарня-кав'ярня</h1>
+<p><center>Місце в якому переплітаються нотки ароматної кави, піци та запашної випічки.</p>
+
+<p>"Хлібна майстерня" - це гостинність, привітність, турбота, смак та надвисока якість!</p>
+<img src="https://joinposter.com/i/site/blog/biznes-plan-pekarni-1.jpg" >
+
+<section id="about">
+ 
+<h1 style="background-color:#DEB887; text-align: center;font-size: 28px; "> Про нас </h1>
+  
+<p><center> Пекарня-кав'ярня "Хлібна майстерня" - це більше, ніж просто пекарня.<br> Це місце, у якому завжди затишно, весело і навіть романтично</center></p>
+
+<p>Місце, у якому переплітаються нотки ароматної кави, піци та запашної випічки.</p>
+
+<p>Обов'язково варто спробувати фірмові сніданки: з коханими, друзями чи колегами...тут затишно за будь-яких обставин. Це місце, у якому точно почуваєшся наче вдома.</p>
+        
+        
+<img src="https://i.work.ua/employer_design/4/6/2/1423462_company_logo_2.png" alt="Наша пекарня" style="width:400px;height:300px >
+</section>
+<section id= "menu>      
+<h1 style="background-color:#DEB887; text-align: center;font-size: 28px; "> Асортимент </h1> 
+
+<ul>
+  <li>Піца</li>
+  <li>Випічка</li>
+  <li>Десерти</li>
+  <li>Напої</li>
+</ul>
+ <img src="https://images.unian.net/photos/2020_11/thumb_files/400_0_1605171926-2436.jpg?0.9456852642588127"  class="round">
+      <img src="https://www.myvin.com.ua/uploads/ckeditor/pictures/11239/content_630_360_1541498546-813.jpg" class="round">
+      <img src="https://zprz.city/uploads/news/redactor/bwrubjj3dxztllso.jpg"  class="round">
+      <img src="https://cdn.metro-online.com/-/media/Project/MCW/UA_Metro/Blog/2021/08_2021/Napoyi-dlya-ditey-v-domashnikh-umovakh/459x459_10.png?h=440&iar=0&w=440&rev=2c370fbee98048ec9d6f5206f7fc913a&hash=59C4E9D01D1B20DE84A951FF15E8D6E1"  class="round">
+</section>
+<section id="contact">         
+<h2 style="background-color:#DEB887; text-align: center;font-size: 28px; "> Контакти </h2> 
+<p><center>Зв'яжіться з нами за адресою:</p>  
+<address><center>
+місто Черкаси  
+<br>
+вулиця Пастерівська 15
+<br> Телефон: 123-456-789      
+<br>
+Email: info@хlibnamaysternya.com
+    
+</address>
+<a href="https://www.facebook.com/hlibna/" target="_blank">Facebook</a>
+</section>  
+<footer>
+<p>&copy; 2023 Хлібна майстерня </p>
+</footer>
+</body>
+</html>
